@@ -168,7 +168,7 @@ h2 {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=2000&auto=format&fit=crop');
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://loremflickr.com/1600/900/indian,fashion,model/all');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -313,7 +313,7 @@ h2 {
 /* Lookbook */
 .lookbook {
     height: 80vh;
-    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=1200&auto=format&fit=crop');
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://loremflickr.com/1200/800/indian,editorial,fashion/all');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
